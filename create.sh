@@ -2,4 +2,4 @@
 
 touch $1;
 chmod a+x $1;
-echo "criou";
+echo "criado com sucesso o arquivo: $1";
